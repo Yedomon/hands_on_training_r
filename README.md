@@ -26,6 +26,7 @@ We will use three packages in the present hands on session. Here is how to insta
   - package ggplot2: `install.packages("ggplot2", depencies = TRUE)`
 
   - package pachwork: `install.packages("patchwork", depencies = TRUE)`
+  - package ggsignif : `install.packages("ggsignif, dependencies = TRUE)`
 
 ## Context
 
