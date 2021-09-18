@@ -44,7 +44,7 @@ Figure 2: Symptome of sesame wilt disease (a, b and C), growth of the fungal in 
 A genetic characterization of using ITS markers was done via PCR (See Figure 3) in order to check if the isolate belong to Fusarium genus.
 
 
-![fig3]()
+![fig3](https://github.com/Yedomon/hands_on_training_r/blob/main/img/pcr.png)
 
 Figure 3: PCR result based on genus-based marker showing visible bands for all isolate exept from outgroups.
 
