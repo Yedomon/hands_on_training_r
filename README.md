@@ -37,7 +37,9 @@ Figure 1: Geographic positions of sample colllection sites.
 
 Once, at laboratory, routine observation of the fungal was done(See Figure 2).
 
-![fig2]()
+![fig2](https://github.com/Yedomon/hands_on_training_r/blob/main/img/morpho.png).
+
+Figure 2: Symptome of sesame wilt disease (a, b and C), growth of the fungal in petri dish (d,e),  microscopic view of micro and macro conidia (f, g, h)
 
 Afterwards, the assessment of the pathogeneicity test of the isolates was scheduled. 
 
