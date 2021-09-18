@@ -62,6 +62,25 @@ The purpose here is to screen Korean cultivar and observe how they react to the 
 
 Some data were recorded. Here we are going to perform an analysis of variance of each data following the tested cultivars.
 
+
+Before we start, we should set our working directory
+
+
+### Check your working directory
+
+```r
+getwd()
+
+```
+
+### Set your own working directory
+
+```r
+setwd("C:/Users/ange_/Downloads/r_tuto") 
+
+```
+
+
 ## Analysis of variance and means comparison
 
 ### Package loading 
