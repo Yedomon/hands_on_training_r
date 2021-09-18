@@ -255,5 +255,7 @@ The final output should be:
 
 
 
-![]()
+![img](https://github.com/Yedomon/hands_on_training_r/blob/main/img/bar_plot.png)
+
+Have a question? Drop it [here]()
 
