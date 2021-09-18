@@ -1,4 +1,4 @@
-# hands_on_training_r
+# Hands on training with R
 
 ## Introductive message
 
@@ -8,7 +8,7 @@ I am going to share some scripts regarding data analysis with R.
 
 The datasets are [here]()
 
-If you have any questions, feel free to reach me via mail: ``yedomon@jbnu.ac.kr``
+If you have any questions, feel free to reach me via mail: ``yedomon@jbnu.ac.kr`` or click [here]()
 
 
 **Notice**: Please visit the hyperlink (in blue) for installation and settings.
@@ -39,4 +39,9 @@ Once, at laboratory, routine observation of the fungal was done(See Figure 2).
 
 ![fig2]()
 
-Afterwards, the assessment of the pathogeneicity of the isolates was scheduled. 
+Afterwards, the assessment of the pathogeneicity test of the isolates was scheduled. 
+
+The purpose here is to screen Korean cultivar and observe how they react to the fungal isolates.
+
+
+
