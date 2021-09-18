@@ -49,9 +49,17 @@ A genetic characterization of using ITS markers was done via PCR (See Figure 3) 
 Figure 3: PCR result based on genus-based marker showing visible bands for all isolate exept from outgroups.
 
 
+Then with the available ITS markers available in NCBI, we infer the phylogenetic position  of the collected isolates (See Figure 4)
+
+
+
+![fig4](https://github.com/Yedomon/hands_on_training_r/blob/main/img/tree.jpeg) 
+
+Figure 4: Phylogenetic tree showing a clear monophyletic branch for Fusarium oxysporum isolates. Maximum boostrap values are on each node.
+
 Afterwards, the assessment of the pathogeneicity test of the isolates was scheduled. 
 
-The purpose here is to screen Korean cultivar and observe how they react to the fungal isolates.
+The purpose here is to screen Korean cultivar and observe how they react to the fungal isolates. 
 
 
 
