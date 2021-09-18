@@ -53,7 +53,7 @@ Then with the available ITS markers available in NCBI, we infer the phylogenetic
 
 
 
-![fig4](https://github.com/Yedomon/hands_on_training_r/blob/main/img/tree.png) 
+![fig4](https://github.com/Yedomon/hands_on_training_r/blob/main/img/tree.jpeg) 
 
 Figure 4: Phylogenetic tree showing a clear monophyletic branch for Fusarium oxysporum isolates. Maximum boostrap values are on each node.
 
