@@ -129,6 +129,8 @@ Using the ANOVA and comparison results, we made data table in order to plot bar 
 
 ### Plant height
 
+```r
+
 data_h = read.csv("height.csv",sep = "," , h = T)
 
 
@@ -144,11 +146,12 @@ h = ggplot(data_h, aes(x = Type, y = Mean, fill = Type)) +
   scale_fill_manual(values=c("#0E6251", "#FF5733"))
 
 h
-
+```
 
 
 ### Diameter
 
+```r
 data_d = read.csv("diameter.csv",sep = "," , h = T)
 
 
@@ -166,10 +169,13 @@ d = ggplot(data_d, aes(x = Type, y = Mean, fill = Type)) +
 
 d
 
-
+```
 
 
 ### Leaf length
+
+
+```r
 
 data_ll = read.csv("leaf_length.csv",sep = "," , h = T)
 
@@ -186,7 +192,7 @@ ll = ggplot(data_ll, aes(x = Type, y = Mean, fill = Type)) +
   scale_fill_manual(values=c("#0E6251", "#FF5733"))
 
 ll
-
+```
 
 
 
@@ -194,6 +200,9 @@ ll
 
 
 ### Leaf width
+
+
+```r
 
 data_lw = read.csv("leaf_width.csv",sep = "," , h = T)
 
@@ -211,10 +220,12 @@ lw = ggplot(data_lw, aes(x = Type, y = Mean, fill = Type)) +
 
 lw
 
-
+```
 
 
 ### chloro_content
+
+```r
 
 data_cc = read.csv("chloro_content.csv",sep = "," , h = T)
 
@@ -231,15 +242,18 @@ cc = ggplot(data_cc, aes(x = Type, y = Mean, fill = Type)) +
   scale_fill_manual(values=c("#0E6251", "#FF5733"))
 
 cc
+```
 
 
 ### combine all graphs in one 
 
+```r
+
 library(patchwork)
 
-(h | d | ll) /
+figure = (h | d | ll) /
   (lw | cc | cc)
-
+```
 ### Save a high quality figure for publication
 
 
