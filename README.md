@@ -41,6 +41,22 @@ Once, at laboratory, routine observation of the fungal was done(See Figure 2).
 
 Figure 2: Symptome of sesame wilt disease (a, b and C), growth of the fungal in petri dish (d,e),  microscopic view of micro and macro conidia (f, g, h)
 
+A genetic characterization of using ITS markers was done via PCR (See Figure 3) in order to check if the isolate belong to Fusarium genus.
+
+
+![fig3]()
+
+Figure 3: PCR result based on genus-based marker showing visible bands for all isolate exept from outgroups.
+
+
+Then with the available ITS markers available in NCBI, we infer the phylogenetic position  of the collected isolates (See Figure 4)
+
+
+
+![fig4]()
+
+
+
 Afterwards, the assessment of the pathogeneicity test of the isolates was scheduled. 
 
 The purpose here is to screen Korean cultivar and observe how they react to the fungal isolates.
