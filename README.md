@@ -6,9 +6,7 @@ Welcome on this hands on workshop dedicated to R. I am Yedomon.
 
 I am going to share some scripts regarding data analysis with R.
 
-The datasets are [here]()
-
-If you have any questions, feel free to reach me via mail: ``yedomon@jbnu.ac.kr`` or click [here]()
+For reproducibility the datasets are [here]()
 
 
 **Notice**: Please visit the hyperlink (in blue) for installation and settings.
@@ -271,5 +269,5 @@ The final output should be:
 
 ![img](https://github.com/Yedomon/hands_on_training_r/blob/main/img/bar_plot.png)
 
-Have a question? Drop it [here]()
+Have a question? Drop it [here](https://github.com/Yedomon/hands_on_training_r/issues/new/choose) or write me an e-mail via `yedomon@jbnu.ac.kr`
 
