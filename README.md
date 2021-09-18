@@ -31,7 +31,7 @@ We will use three packages in the present hands on session. Here is how to insta
 
 At a part of a project relative to wilt disease of sesame caused by Fusarium oxysporum f.sp. sesami, a fungal sample collection was performed in four locations in Korea (See Figure 1).
 
-![fig1]()
+![fig1](https://github.com/Yedomon/hands_on_training_r/blob/main/img/map.jpeg)
 
 Figure 1: Geographic positions of sample colllection sites.
 
